@@ -1,0 +1,22 @@
+2021-12-07 15:20:44 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-07 15:20:44 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-07 15:20:44 - INFO - "GET /reminders HTTP/1.1" 200 967
+2021-12-07 15:21:05 - ERROR - ResponseError in 0 on line 0
+2021-12-07 15:21:16 - ERROR - ResponseError in 0 on line 0
+2021-12-07 15:21:40 - ERROR - ResponseError in 0 on line 0
+2021-12-07 15:21:40 - ERROR - ResponseError in 0 on line 0
+2021-12-07 15:22:27 - INFO - "GET /reminders/2 HTTP/1.1" 200 154
+2021-12-07 16:02:46 - INFO - "GET /reminders HTTP/1.1" 200 967
+2021-12-07 16:02:46 - INFO - "POST /reminders HTTP/1.1" 200 162
+2021-12-07 16:02:46 - INFO - "POST /reminders HTTP/1.1" 200 164
+2021-12-07 16:02:46 - INFO - "POST /reminders HTTP/1.1" 200 164
+2021-12-07 16:02:46 - INFO - "POST /reminders HTTP/1.1" 200 165
+2021-12-07 16:54:45 - WARNING - "PUT /reminders HTTP/1.1" 405 1554
+2021-12-07 16:54:45 - INFO - "POST /reminders HTTP/1.1" 200 172
+2021-12-07 16:54:45 - INFO - "GET /reminders HTTP/1.1" 200 1804
+2021-12-07 16:54:45 - INFO - "PUT /reminders/10 HTTP/1.1" 200 175
+2021-12-07 16:54:45 - INFO - "GET /reminders/10 HTTP/1.1" 200 173
+2021-12-07 16:54:45 - INFO - "GET /reminders HTTP/1.1" 200 1812
+2021-12-07 16:59:03 - INFO - "DELETE /reminders/11 HTTP/1.1" 200 174
+2021-12-07 16:59:03 - INFO - "DELETE /reminders/10 HTTP/1.1" 200 175
+2021-12-07 16:59:03 - INFO - "GET /reminders HTTP/1.1" 200 1463
